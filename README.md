@@ -1,2 +1,2 @@
 # gitPractice
-This is the Hello World example from the git tutorial.
+This is the gitPractice example from the git tutorial. (original)
